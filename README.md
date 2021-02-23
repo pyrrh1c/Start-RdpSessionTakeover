@@ -6,4 +6,7 @@ This script requires local admin to run.
 ## Main Features
 * Easy enumeration of sessions
 * Automatic configuration of RDP shadowing
-* Fast and easy to use
+* Fast and easy lateral movement and privelege escalation 
+
+## When To Use This Script
+Perhaps you've owned a users who is a local administrator of a server. Another user who is a domain admin has a session on that server. With this you can quickly and easily begin viewing and/or interacting with their RDP session.
