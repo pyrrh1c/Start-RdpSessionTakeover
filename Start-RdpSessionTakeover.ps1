@@ -5,7 +5,7 @@
     .Synopsis
         This script automates the process of enumerating existing RDP sessions and allows the user to then take over a selected session.
     .Description
-        
+        A short script to automate the process of RDP session hijacking. When run without any parameters it will enumerate all existing RDP sessions and prompt for a session to be taken over. This script requires local admin to run.
     .Parameter UserName
         If you already know the username of the session you want to take over you can specify it and skip enumeration.
     .Example
